@@ -1,0 +1,10 @@
+RCC>
+    <qresource prefix="/img">
+        <file>1.png</file>
+        <file>3.png</file>
+        <file>2.png</file>
+        <file>zombie_standing.png</file>
+        <file>zombie_moving.png</file>
+        <file>zombie_attack.png</file>
+    </qresource>
+</RCC>
